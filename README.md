@@ -1,3 +1,3 @@
 # practice-repository
-ux/ui bootcamp berkeley extension program jan-jul 2023
-apom.orozco@gmail.com
+Ux/Ui bootcamp Berkeley Extension program Jan-Jul 2023
+Contact me at apom.orozco@gmail.com
